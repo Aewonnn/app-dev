@@ -5,7 +5,7 @@ My first repository
 1. Weightlifting Fairy Kim Bok-joo
 2. Death Note
 3. Fresh off the Boat
-4. Beauty Inside
+4. The Beauty Inside
 5. Terminator
 # Movies
 ## Top 5
