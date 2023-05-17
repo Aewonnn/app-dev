@@ -2,15 +2,15 @@
 My first repository
 # Series
 ## Top 5
-1. Weightlifting Fairy Kim Bok-joo
+1. Stranger things
 2. Death Note
-3. Fresh off the Boat
-4. The Beauty Inside
-5. Terminator
+3. Beloved Summer
+4. Demon Slayer
+5. Attack On Titan
 # Movies
 ## Top 5
-1. The Transformers
-2. Space Jam
-3. Zack Snyder's Justice League
-4. Van Wilder: Freshmen year
-5. Pacific Rim
+1. Toy Story
+2. Kill boksoon
+3. Despicable Me
+4. Inside Out
+5. The Secret Life of Pets
